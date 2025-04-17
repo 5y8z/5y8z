@@ -9,19 +9,19 @@
 mannu@archbtw:~$ neofetch
 
                    .~vVeZNgQBBBQQg9Ze1v~.                   
-              `^}%B@@@@@@@@@@@@@@@@@@@@@@8%}=`                 mannu@archbtw
+              `^}%B@@@@@@@@@@@@@@@@@@@@@@8%}=`                 5y8z@archbtw
            -Lq#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#qr-              -----------------------
         .V0@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@0?.           OS: GNU/Linux
-      _l#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#l`         Uptime: 18 years
+      _l#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#l`         Uptime: i forgor
     `o@@@@@@@@v^r}P0@@@@@@@@@@@@@@@@@@@@ghlr<r@@@@@@@#o`       Packages: 1030 (pacman)
    ;0@@@@@@@@0      .?szL?*;!!!!~*|]Vox_      P@@@@@@@@0.      Shell: /bin/zsh
   ?@@@@@@@@@@q                                z@@@@@@@@@#?     Editors: vim, vscode
- :@@@@@@@@@@@Q                                R@@@@@@@@@@@"    Home: git@github.com:MannuVilasara
+ :@@@@@@@@@@@Q                                R@@@@@@@@@@@"    Home: git@github.com:5y8z
 _g@@@@@@@@@@2-                                `M@@@@@@@@@@0    
 a@@@@@@@@@@2                                    v@@@@@@@@@@;   contact information
 #@@@@@@@@@@_                                     @@@@@@@@@@y   -------------------
-@@@@@@@@@@@.                                     @@@@@@@@@@%   Website:mannuvls.xyz
-#@@@@@@@@@@r                                    :@@@@@@@@@@s   Github: MannuVilasara
+@@@@@@@@@@@.                                     @@@@@@@@@@%   Discord: 5y8z
+#@@@@@@@@@@r                                    :@@@@@@@@@@s   Github: 5y8z
 W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*   
 ~#@@@@@@@@@@9!                                ,Q@@@@@@@@@@#    device specifications 
  ;@@@@@@@@@@@@6^.                          `\p@@@@@@@@@@@@~    ---------------------  
@@ -35,84 +35,3 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*
                   -!v|`              _?v!`                     
 ```
 
-<details>
-  <summary>🧮 about</summary>
-<div>
-<samp>
-<h2 align="center">About this Account</h2>
- <p align="center">
-  <a href="github.com/MannuVilasara" target="blank"><img align="center" 
-     src="https://komarev.com/ghpvc/?username=MannuVilasara&style=for-the-badge&label=PROFILE+VIEWS" height="25"
-     alt="views count" /></a>
-  <a href="https://dev-mannu.vercel.app/"><img align="center" 
-     src="https://img.shields.io/website?down_message=offline&style=for-the-badge&up_message=online&url=https%3A%2F%2F1999azzar.github.io%2F1999AZZAR%2F" height="25"
-     alt="website" /></a>
-  </p>
- </samp>
-</div>
-</details>
-  
-<details> 
-  <summary>💻 GitHub Profile Stats</summary>
-  <div>
-  <samp>
-    <h2 align="center"> Github stats </h2>
-      <br/>
-    <details open>
-  <summary><h3>Languages</h3></summary>
-            <p align="center">
-        <a href="https://github.com/MannuVilasara/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MannuVilasara&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
-          alt="Mannu :: overall Top Langs " /></a>
-      </p>
-        <p align="center">
-          <a href="https://github.com/MannuVilasara/">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MannuVilasara&theme=gruvbox&layout=compact&hide_border=true"
-          alt="Mannu :: Top Langs by repo" />
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MannuVilasara&theme=gruvbox&layout=compact&hide_border=true"
-          alt="Mannu :: Top Langs by commit" />
-          </a>
-        </p>
-</details>
-    <details open>
-  <summary><h3>stasistic</h3></summary>
-        <p align="center">
-          <a href="https://github.com/MannuVilasara/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=MannuVilasara&show_icons=true&theme=gruvbox&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=MannuVilasara&theme=gruvbox&hide_border=true" />
-          </a>
-       </p>
-     <br>
-     </samp>
-  </div>    
-</details>
-
-<details>
-  <summary>📈 Latest Activity Graph</summary>
-  <samp>
-  <br/>
-  <h2 align="center"> latest contribution </h2>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img alt="azzar's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=MannuVilasara&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
-<br/>
-  </samp>
-  </details>
-
-
-
-  
- <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0E7334&center=true&vCenter=true&width=435&lines=Freelance+embedded+device+developer;have+high+creativity;Able+to+work+in+team+or+individual+" alt="Typing SVG" /></a></p>
-  
-  
------
-
-[![Skills](https://skillicons.dev/icons?i=js,html,css,py,neovim,vscode,mysql,mongodb,md,linux,flask,git,github,githubactions,bots)](https://skillicons.dev)
-
-### Find me here
-[![dev](https://skillicons.dev/icons?i=devto)](https://dev.to/mannu) 
-[![insta](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/dev_mannuu)
-[![dev](https://skillicons.dev/icons?i=discord)](https://discord.com/users/786926252811485186)
-
-### Holphin badges
-
-[![An image of @mannuvilasara's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mannuvilasara)](https://holopin.io/@mannuvilasara)
